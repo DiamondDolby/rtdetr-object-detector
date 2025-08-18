@@ -93,6 +93,12 @@ The RT-DETR model processes input images or webcam frames to detect objects. The
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 🙋‍♂️ Author
 
 ### Sharavanan Mathivanan
