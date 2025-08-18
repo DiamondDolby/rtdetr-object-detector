@@ -19,7 +19,7 @@ This project implements real-time object detection using the RT-DETR model from 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rtdetr-object-detection.git
+git clone https://github.com/DiamondDolby/rtdetr-object-detection.git
 cd rtdetr-object-detection
 ```
 
@@ -97,6 +97,6 @@ The RT-DETR model processes input images or webcam frames to detect objects. The
 
 ### Sharavanan Mathivanan
 
-#### GitHub: https://github.com/DiamondDolby
+#### [GitHub](https://github.com/DiamondDolby)
 
-#### LinkedIn: https://www.linkedin.com/in/sharavanan-mathivanan/
+#### [LinkedIn](https://www.linkedin.com/in/sharkyca)
