@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.h5
+*.onnx
+*.log
+.env
+output/
+images/
+src/rtdetr_model/model.safetensors
