@@ -14,6 +14,11 @@ This project implements real-time object detection using the RT-DETR model from 
 
 ---
 
+## 📝 Tutorial
+Dive into the code with my Medium tutorial: [Understanding Real-Time Object Detection with RT-DETR](https://medium.com/@sharavanan.mathivanan/understanding-real-time-object-detection-with-rt-detr-a-code-deep-dive-03f8bb2daafe).
+
+---
+
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
